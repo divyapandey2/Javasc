@@ -15,5 +15,4 @@
 
 
 //do while loop
-
-let
+//it works first then use condition
